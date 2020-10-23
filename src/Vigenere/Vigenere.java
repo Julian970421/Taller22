@@ -2,7 +2,9 @@ package Vigenere;
 import java.util.Scanner;
 public class Vigenere
 {
+     int cristian=0;
 	public static void main (String g[])
+               
 	{
 		Scanner sc = new Scanner(System.in);
 		int matriz[][] = new int [26][26];
