@@ -2,7 +2,7 @@ package Vigenere;
 import java.util.Scanner;
 public class Vigenere
 {
-     int cristian=0;
+   
 	public static void main (String g[])
                
 	{
