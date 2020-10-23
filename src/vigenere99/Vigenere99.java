@@ -2,6 +2,7 @@ package Vigenere99;
 import java.util.Scanner;
 public class Vigenere99
 {
+    int esteban=0;
 	public static void main (String g[])
 	{
 		Scanner sc = new Scanner(System.in);
